@@ -1,0 +1,426 @@
+Results for 1.ppm
+Run 1:
+
+File read time: 0.018813 seconds 
+
+S1 Smoothen time: 0.022 seconds
+
+S2 Details time: 0.007 seconds
+
+S3 Sharpened time: 0.006 seconds
+
+File write time: 0.028182 seconds 
+
+Run 2:
+
+File read time: 0.011717 seconds 
+
+S1 Smoothen time: 0.021 seconds
+
+S2 Details time: 0.011 seconds
+
+S3 Sharpened time: 0.007 seconds
+
+File write time: 0.018958 seconds 
+
+Run 3:
+
+File read time: 0.013700 seconds 
+
+S1 Smoothen time: 0.020 seconds
+
+S2 Details time: 0.008 seconds
+
+S3 Sharpened time: 0.006 seconds
+
+File write time: 0.022288 seconds 
+
+Run 4:
+
+File read time: 0.010310 seconds 
+
+S1 Smoothen time: 0.021 seconds
+
+S2 Details time: 0.009 seconds
+
+S3 Sharpened time: 0.007 seconds
+
+File write time: 0.024703 seconds 
+
+Run 5:
+
+File read time: 0.014779 seconds 
+
+S1 Smoothen time: 0.021 seconds
+
+S2 Details time: 0.008 seconds
+
+S3 Sharpened time: 0.007 seconds
+
+File write time: 0.021813 seconds 
+
+Updated Results for 2.ppm
+Run 1:
+
+File read time: 0.054416 seconds 
+
+S1 Smoothen time: 0.082 seconds
+
+S2 Details time: 0.019 seconds
+
+S3 Sharpened time: 0.014 seconds
+
+File write time: 0.075038 seconds 
+
+Run 2:
+
+File read time: 0.047806 seconds 
+
+S1 Smoothen time: 0.065 seconds
+
+S2 Details time: 0.035 seconds
+
+S3 Sharpened time: 0.026 seconds
+
+File write time: 0.041484 seconds 
+
+Run 3:
+
+File read time: 0.050482 seconds 
+
+S1 Smoothen time: 0.066 seconds
+
+S2 Details time: 0.033 seconds
+
+S3 Sharpened time: 0.016 seconds
+
+File write time: 0.064862 seconds 
+
+Run 4:
+
+File read time: 0.031925 seconds 
+
+S1 Smoothen time: 0.060 seconds
+
+S2 Details time: 0.031 seconds
+
+S3 Sharpened time: 0.023 seconds
+
+File write time: 0.086155 seconds 
+
+Run 5:
+
+File read time: 0.055166 seconds 
+
+S1 Smoothen time: 0.086 seconds
+
+S2 Details time: 0.022 seconds
+
+S3 Sharpened time: 0.020 seconds
+
+File write time: 0.074175 seconds 
+
+Updated Results for 3.ppm
+Run 1:
+
+File read time: 0.140935 seconds 
+
+S1 Smoothen time: 0.132 seconds
+
+S2 Details time: 0.038 seconds
+
+S3 Sharpened time: 0.030 seconds
+
+File write time: 0.082059 seconds 
+
+Run 2:
+
+File read time: 0.090896 seconds 
+
+S1 Smoothen time: 0.145 seconds
+
+S2 Details time: 0.037 seconds
+
+S3 Sharpened time: 0.025 seconds
+
+File write time: 0.076863 seconds 
+
+Run 3:
+
+File read time: 0.088323 seconds 
+
+S1 Smoothen time: 0.121 seconds
+
+S2 Details time: 0.034 seconds
+
+S3 Sharpened time: 0.024 seconds
+
+File write time: 0.091341 seconds 
+
+Run 4:
+
+File read time: 0.075851 seconds 
+
+S1 Smoothen time: 0.085 seconds
+
+S2 Details time: 0.041 seconds
+
+S3 Sharpened time: 0.035 seconds
+
+File write time: 0.091110 seconds 
+
+Run 5:
+
+File read time: 0.087433 seconds 
+
+S1 Smoothen time: 0.126 seconds
+
+S2 Details time: 0.038 seconds
+
+S3 Sharpened time: 0.034 seconds
+
+File write time: 0.071607 seconds 
+
+Updated Results for 4.ppm
+Run 1:
+
+File read time: 0.236848 seconds 
+
+S1 Smoothen time: 0.146 seconds
+
+S2 Details time: 0.060 seconds
+
+S3 Sharpened time: 0.054 seconds
+
+File write time: 0.119396 seconds 
+
+Run 2:
+
+File read time: 0.194477 seconds 
+
+S1 Smoothen time: 0.197 seconds
+
+S2 Details time: 0.078 seconds
+
+S3 Sharpened time: 0.064 seconds
+
+File write time: 0.101486 seconds 
+
+Run 3:
+
+File read time: 0.135734 seconds 
+
+S1 Smoothen time: 0.222 seconds
+
+S2 Details time: 0.058 seconds
+
+S3 Sharpened time: 0.058 seconds
+
+File write time: 0.130500 seconds 
+
+Run 4:
+
+File read time: 0.153282 seconds 
+
+S1 Smoothen time: 0.184 seconds
+
+S2 Details time: 0.064 seconds
+
+S3 Sharpened time: 0.053 seconds
+
+File write time: 0.129685 seconds 
+
+Run 5:
+
+File read time: 0.168717 seconds 
+
+S1 Smoothen time: 0.165 seconds
+
+S2 Details time: 0.059 seconds
+
+S3 Sharpened time: 0.053 seconds
+
+File write time: 0.142320 seconds 
+
+Updated Results for 5.ppm
+Run 1:
+
+File read time: 0.223535 seconds 
+
+S1 Smoothen time: 0.182 seconds
+
+S2 Details time: 0.074 seconds
+
+S3 Sharpened time: 0.066 seconds
+
+File write time: 0.121686 seconds 
+
+Run 2:
+
+File read time: 0.189191 seconds 
+
+S1 Smoothen time: 0.188 seconds
+
+S2 Details time: 0.077 seconds
+
+S3 Sharpened time: 0.068 seconds
+
+File write time: 0.148190 seconds 
+
+Run 3:
+
+File read time: 0.189302 seconds 
+
+S1 Smoothen time: 0.191 seconds
+
+S2 Details time: 0.080 seconds
+
+S3 Sharpened time: 0.066 seconds
+
+File write time: 0.165528 seconds 
+
+Run 4:
+
+File read time: 0.174699 seconds 
+
+S1 Smoothen time: 0.193 seconds
+
+S2 Details time: 0.079 seconds
+
+S3 Sharpened time: 0.070 seconds
+
+File write time: 0.126449 seconds 
+
+Run 5:
+
+File read time: 0.223857 seconds 
+
+S1 Smoothen time: 0.194 seconds
+
+S2 Details time: 0.078 seconds
+
+S3 Sharpened time: 0.067 seconds
+
+File write time: 0.135885 seconds 
+
+Updated Results for 6.ppm
+Run 1:
+
+File read time: 0.515487 seconds 
+
+S1 Smoothen time: 0.447 seconds
+
+S2 Details time: 0.165 seconds
+
+S3 Sharpened time: 0.161 seconds
+
+File write time: 0.400957 seconds 
+
+Run 2:
+
+File read time: 0.441047 seconds 
+
+S1 Smoothen time: 0.419 seconds
+
+S2 Details time: 0.157 seconds
+
+S3 Sharpened time: 0.149 seconds
+
+File write time: 0.504214 seconds 
+
+Run 3:
+
+File read time: 0.507923 seconds 
+
+S1 Smoothen time: 0.424 seconds
+
+S2 Details time: 0.150 seconds
+
+S3 Sharpened time: 0.165 seconds
+
+File write time: 0.453230 seconds 
+
+Run 4:
+
+File read time: 0.449071 seconds 
+
+S1 Smoothen time: 0.424 seconds
+
+S2 Details time: 0.154 seconds
+
+S3 Sharpened time: 0.142 seconds
+
+File write time: 0.452022 seconds 
+
+Run 5:
+
+File read time: 0.534559 seconds 
+
+S1 Smoothen time: 0.415 seconds
+
+S2 Details time: 0.157 seconds
+
+S3 Sharpened time: 0.140 seconds
+
+File write time: 0.479489 seconds 
+
+Updated Results for 7.ppm
+Run 1:
+
+File read time: 1.191690 seconds 
+
+S1 Smoothen time: 1.134 seconds
+
+S2 Details time: 0.494 seconds
+
+S3 Sharpened time: 0.537 seconds
+
+File write time: 1.404610 seconds 
+
+Run 2:
+
+File read time: 1.226710 seconds 
+
+S1 Smoothen time: 1.146 seconds
+
+S2 Details time: 0.423 seconds
+
+S3 Sharpened time: 0.379 seconds
+
+File write time: 1.082850 seconds 
+
+Run 3:
+
+File read time: 1.367710 seconds 
+
+S1 Smoothen time: 1.237 seconds
+
+S2 Details time: 0.507 seconds
+
+S3 Sharpened time: 0.418 seconds
+
+File write time: 1.373780 seconds 
+
+Run 4:
+
+File read time: 1.167020 seconds 
+
+S1 Smoothen time: 1.170 seconds
+
+S2 Details time: 0.414 seconds
+
+S3 Sharpened time: 0.380 seconds
+
+File write time: 1.038470 seconds 
+
+Run 5:
+
+File read time: 1.531130 seconds 
+
+S1 Smoothen time: 1.140 seconds
+
+S2 Details time: 0.416 seconds
+
+S3 Sharpened time: 0.388 seconds
+
+File write time: 1.361620 seconds 
